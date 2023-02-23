@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krathish-sk
+- 👋 Hi, I’m @Krathish-K
 - 👀 I’m interested in developing websites.
 - 🌱 I’m currently working as Programmer Analyst at Cognizant.
 - 💞️ I’m looking to collaborate on projects that boosts my knowledge.
